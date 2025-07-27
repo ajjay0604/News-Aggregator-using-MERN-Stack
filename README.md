@@ -1,4 +1,4 @@
-View our Project @ https://news-aggregator-frontend-six.vercel.app/
+View our deployed version @ https://news-aggregator-frontend-six.vercel.app/
 
 Developed a MERN-based News Aggregator with user authentication, personalized feeds, and real-time updates. Features include a responsive dashboard, dark mode, translation, and secure authentication for a seamless user experience.
 
