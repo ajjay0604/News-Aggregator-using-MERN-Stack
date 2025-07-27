@@ -4,17 +4,21 @@ Signup Page :
 
 <img width="2742" height="1420" alt="image" src="https://github.com/user-attachments/assets/253a680e-03bf-4453-b00a-262b2bddbb34" />
 
+
 Login Page :
 
 <img width="2792" height="1250" alt="image" src="https://github.com/user-attachments/assets/c8ea7437-c74d-4dc4-b3e3-d5688f6a4ffa" />
+
 
 Dashbord :
 
 <img width="2842" height="1486" alt="image" src="https://github.com/user-attachments/assets/cd90869e-7b95-45b2-a098-70c06d316335" />
 
+
 Different News Categories :
 
 <img width="1468" height="430" alt="image" src="https://github.com/user-attachments/assets/4228846d-1e8a-4671-bf98-67641b1a8eb3" />
+
 
 Language Toggle options :
 
