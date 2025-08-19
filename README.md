@@ -7,9 +7,13 @@ Developed a MERN-based News Aggregator with user authentication, personalized fe
 ## ✨ Key Features
 
 📱 Responsive Dashboard
+
 🌙 Dark Mode
+
 🌍 Language Translation
+
 🔒 Secure Authentication
+
 📰 Different News Categories
 
 ## 🔑 Signup Page :
