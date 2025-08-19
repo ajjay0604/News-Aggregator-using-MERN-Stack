@@ -1,4 +1,4 @@
-📰 News Aggregator built using MERN Stack
+# 📰 News Aggregator built using MERN Stack
 
 View our deployed version @ https://news-aggregator-frontend-six.vercel.app/
 
