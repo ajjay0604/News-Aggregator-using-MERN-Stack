@@ -36,3 +36,6 @@ Developed a MERN-based News Aggregator with user authentication, personalized fe
 
 <img width="1896" height="1552" alt="image" src="https://github.com/user-attachments/assets/a7af7238-a863-4190-bd28-1121cd0fd396" />
 
+----
+<i>📌 Developed by <b>Ajjay Adhithya V</b> · 🔗 More projects on my <a href="https://github.com/ajjay0604/">GitHub Profile</a></i>
+
