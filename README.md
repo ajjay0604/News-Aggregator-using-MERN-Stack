@@ -3,14 +3,7 @@
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?logo=nodedotjs&logoColor=white)
 
-![Authentication](https://img.shields.io/badge/Auth-Secure%20Login-yellow?logo=auth0&logoColor=white)
-![Dark Mode](https://img.shields.io/badge/UI-Dark--Mode-black)
-![Translation](https://img.shields.io/badge/Feature-Language%20Translation-orange)
-![Responsive](https://img.shields.io/badge/Dashboard-Responsive-success)
-![Categories](https://img.shields.io/badge/News%20Categories-Multiple-blueviolet)
-
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://news-aggregator-frontend-six.vercel.app/)
 
 # 📰 News Aggregator built using MERN Stack
 
