@@ -2,7 +2,6 @@
 ![Express](https://img.shields.io/badge/Backend-Express.js-lightgrey?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?logo=nodedotjs&logoColor=white)
-
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
 
 # 📰 News Aggregator built using MERN Stack
