@@ -5,7 +5,7 @@
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green?logo=nodedotjs&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
 
-View our deployed version @ https://news-aggregator-frontend-six.vercel.app/
+View our deployed version @ [Website Link](https://news-aggregator-frontend-six.vercel.app/)
 
 Developed a MERN-based News Aggregator with user authentication, personalized feeds, and real-time updates. Features include a responsive dashboard, dark mode, translation, and secure authentication for a seamless user experience.
 
